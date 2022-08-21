@@ -10,7 +10,7 @@ function start() {
     }
 }
 
-// start();
+start();
 
 const personalMovieDB = {
     count: numberOfFilms,
@@ -37,7 +37,7 @@ function rememberMyFilms() {
     }
 }
 
-// rememberMyFilms();
+rememberMyFilms();
 
 function writeYouGeners() {
     for (let i = 1; i <= 3; i++) {
@@ -59,7 +59,7 @@ function detectPersonalLevel() {
     }
 }
 
-// detectPersonalLevel();
+detectPersonalLevel();
 
 
 function showMyDB() {
